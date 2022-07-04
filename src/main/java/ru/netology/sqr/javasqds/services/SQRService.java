@@ -10,15 +10,15 @@ public class SQRService {
 
         for (int i = 10; i <= 99; i++) {
             if (i * i >= num1 && i * i <= num2) {
-                 s++;
+                s++;
             }
 
-            }
+        }
         return s;
 
 
-        }
-
     }
+
+}
 
 
